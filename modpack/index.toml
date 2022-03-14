@@ -79,3 +79,8 @@ metafile = true
 file = "mods/starlight.toml"
 hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
 metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.toml"
+hash = "517454a819176a1b52569e4c070d48e3a39d07e2e5b6bef26caa7bbc7e179037"
+metafile = true
