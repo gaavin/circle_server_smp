@@ -1,0 +1,13 @@
+name = "circle_server_smp"
+author = "gavin"
+version = "1.8.2-0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "14cef28c2eb93bc8f3621200b93dda615a5273beed1e9403ec699b96b3c9bba2"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.2"

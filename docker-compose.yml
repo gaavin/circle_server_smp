@@ -1,0 +1,28 @@
+version: "3"
+
+services:
+  circle_server_smp:
+    image: itzg/minecraft-server
+    ports:
+      - 25565:25565
+    tty: true
+    stdin_open: true
+    restart: unless-stopped
+    volumes:
+      - ./minecraft-data:/data:Z
+    depends_on:
+      - circle_server_smp_webserver
+    environment:
+      EULA: TRUE
+      OVERRIDE_SERVER_PROPERTIES: TRUE
+      VERSION: 1.18.2
+      TYPE: FABRIC
+      PACKWIZ_URL: https://raw.githubusercontent.com/gaavin/circle_server_smp/master/modpack/pack.toml
+      MEMORY: 6G
+      MOTD: §l§nCircle Server SMP
+      DIFFICULTY: HARD
+      MAX_PLAYERS: 20
+      PVP: TRUE
+      LEVEL_TYPE: DEFAULT
+      LEVEL: world
+

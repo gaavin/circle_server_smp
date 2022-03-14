@@ -1,0 +1,13 @@
+name = "Inventory Sorting"
+filename = "InventorySorter-1.8.6-1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3669/320/InventorySorter-1.8.6-1.18.jar"
+hash-format = "sha1"
+hash = "1bfb9f88cf6aee853ac06a5187a0137b69b0596b"
+
+[update]
+[update.curseforge]
+file-id = 3669320
+project-id = 325471

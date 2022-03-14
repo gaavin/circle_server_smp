@@ -1,0 +1,81 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "cde374866663873f43b376a673fa6095b5f74a8b87215432f6628ee08d405f5f"
+metafile = true
+
+[[files]]
+file = "mods/architectury-fabric.toml"
+hash = "4678da7646beb73621074e73d73d5b0c20d8ae370c18a18cdef8b20f43e29cf4"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.toml"
+hash = "905810382b3103f43b38c18794f72bb7c364039d8ab6ce3f57fdf984cde052b4"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
+metafile = true
+
+[[files]]
+file = "mods/clumps.toml"
+hash = "3b72cdc35c9308eb3d0fae47ad58c0f3123e1d671bde3b209f27b8d0e2a71d59"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "e1d62926446ab5519d262d741f9f2f125488bc2048f38aced8d3e1ebec55fe1e"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.toml"
+hash = "5e262614e37504b358a61e9033ff77252c82b2900aab29d6f5c4b1bc549deee1"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.toml"
+hash = "a3b8b3120dd534b675af919212df2663652892676989ef0b5d089c6d14cc1439"
+metafile = true
+
+[[files]]
+file = "mods/iris.toml"
+hash = "7486da78ccd788e6df69f762ee14db29fd533bf90b44969480ec1b112942e7fb"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.toml"
+hash = "551328f7f97a853f48d6c6d915e422bfc41eadc50e1180727af2a1d9de60de22"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.toml"
+hash = "bd7c1c5af4bf1192e3b95845cd8f85412e9a94533f8dd2f79f624c7df22c3611"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
+metafile = true
