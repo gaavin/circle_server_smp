@@ -16,7 +16,7 @@ services:
       VERSION: 1.18.2
       TYPE: FABRIC
       PACKWIZ_URL: https://raw.githubusercontent.com/gaavin/circle_server_smp/master/modpack/pack.toml
-      MEMORY: 6G
+      MEMORY: 20G
       MOTD: §l§nCircle Server SMP
       DIFFICULTY: HARD
       MAX_PLAYERS: 20
