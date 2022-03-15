@@ -1,6 +1,6 @@
 name = "circle_server_smp"
 author = "gavin"
-version = "1.8.2-0"
+version = "1.8.2-2"
 pack-format = "packwiz:1.0.0"
 
 [index]
@@ -11,3 +11,6 @@ hash = "030092a71be31e6ab11f6444d7c2920ee04da6b029084c97d0d68c80c61ef4cd"
 [versions]
 fabric = "0.13.3"
 minecraft = "1.18.2"
+
+[options]
+acceptable-game-versions = ["1.18", "1.16.1", "1.18.2"]
